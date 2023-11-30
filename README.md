@@ -10,9 +10,5 @@ Strong Girl Nam-Soon is very cute girl 😃 and very strong woman.
 3. But all man in there family are weak.
 
 
-```
-{
-  "firstName": " Michelle Lei",
-  "lastName": "Dela Fuente",
-}
-```
+### Michelle Lei M. Dela Fuente
+
